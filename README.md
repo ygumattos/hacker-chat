@@ -1,5 +1,5 @@
 # hacker-chat
-Create a API if you can create a room for chatting with anyone
+API for create a rooms for chatting with your friends
 
 # How use:
 
