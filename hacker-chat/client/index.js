@@ -5,6 +5,9 @@
  */
 
 /**
+ 
+ npm unlink -g @ygumattos/new-hacker-chat-client
+ 
  hacker-chat \
    --username ygormattos \
    --room sala01 \
