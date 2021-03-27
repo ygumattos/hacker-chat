@@ -1,8 +1,17 @@
+#!/usr/bin/env node
+
 /**
- * node index.js \
- *  --username ygormattos \
- *  --room sala01 \
- *  --hostUri localhost
+ * chmod +x index.js
+ */
+
+/**
+ hacker-chat \
+   --username ygormattos \
+   --room sala01 \
+
+ ./index.js \
+   --username ygormattos \
+   --room sala01 \
  */
 
 import Events from 'events'
